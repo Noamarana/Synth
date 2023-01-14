@@ -12,3 +12,6 @@ Rodrigo Morais Dos Santos
 Vanessa Martinez                                                       
 Noam Wakamy Arana Leon                                           
 /*-----------------------------------------------------------*/
+
+
+![Spike](https://user-images.githubusercontent.com/117169210/212441291-2a1babf9-7f4a-4d0a-bcd2-b6059d8b9479.png)
